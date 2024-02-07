@@ -14,8 +14,8 @@ public class Editor{
     public void setContent(String content){
         this.content = content;
     }
-    public void undo() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'undo'");
-    }
+    // public void undo() {
+    //     // TODO Auto-generated method stub
+    //     throw new UnsupportedOperationException("Unimplemented method 'undo'");
+    // }
 }
