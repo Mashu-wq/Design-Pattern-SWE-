@@ -1,4 +1,11 @@
 /*package whatever //do not write package name here */
+/*
+ * To implement the Singleton Pattern, we will need to:
+
+- Define a class with a private constructor, so that no other class can instantiate it.
+- Declare a static variable of the same type as the class and create an instance of the class in the variable.
+- Declare a static method that returns the instance of the class.
+ */
 import java.io.*;
 class Singleton {
     // static class

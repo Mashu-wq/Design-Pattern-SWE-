@@ -1,3 +1,10 @@
+/*
+ * To implement the Factory Pattern, we will need to:
+
+- Define an interface or abstract class that declares the factory method for creating objects.
+- Create concrete classes that implement the interface or abstract class and provide their own implementation of the factory method.
+- Define a client class that uses the factory method to create objects without knowing their exact class.
+ */
 //create notification interface
  interface Notification {
     void notifyUser();
